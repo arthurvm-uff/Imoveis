@@ -9,4 +9,5 @@ head(dados)
 #Preencher na branch
 
 #Etapa 3: Análise de medidas.
-#Preencher na branch
+summary(dados$imposto_anual)
+sd(dados$imposto_anual)
