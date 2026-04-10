@@ -6,7 +6,7 @@ str(dados)
 head(dados)
 
 #Etapa 2: Criação de gráficos.
-#Preencher na branch
+hist(dados$metragem)
 
 #Etapa 3: Análise de medidas.
 #Preencher na branch
